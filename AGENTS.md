@@ -1,4 +1,4 @@
-# TinyAGI — Multi-team Personal Assistants
+# AGI-AS(S)-TEAM — Multi-team Personal Assistants
 
 Running in persistent mode with teams of agents, messaging integration (Telegram, WhatsApp, Discord), and heartbeat monitoring.
 
